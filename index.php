@@ -8,7 +8,7 @@
     <body>
     <section>
 	    <form action="controlador.php" method="POST"> 
-	    	
+	    <input	
 	    	
 
 
