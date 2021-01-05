@@ -27,8 +27,11 @@
                 </br>
                 <input class="input-del-form" type="telefono" name="telefono" id="telefono" placeholder="ingrese su telefono" title="El número debe estar comprendido de 10 digitos" />
                 </br>
+                <label> Mensaje: </label>
+                </br>
+                </br>
 
-                <textarea class="input-del-form-mensajedelusuario" id="mensajedelusuario" name="mensajedelusuario"> Tu mensaje aquí
+                <textarea class="input-del-form-mensajedelusuario" id="mensajedelusuario" name="mensajedelusuario" title="Tu mensaje aquí"> 
                     
                 </textarea>
                 <br>
